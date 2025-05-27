@@ -10,13 +10,14 @@ While many modern email providers and security solutions offer some level of spo
 
 ---
 
-
 ## 📚 Learn More & Stay Connected
 
 For more cybersecurity tutorials, ethical hacking guides, and open-source tools, follow us on Telegram for the latest updates!
 
-[![Telegram](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg#icon "Telegram") Telegram Channel](https://t.me/toolsbuy)
-
+<a href="https://t.me/toolsbuy" target="_blank" rel="noopener">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" width="24" height="24" style="vertical-align:middle; margin-right:6px;">
+  Telegram Channel
+</a>
 
 ---
 
