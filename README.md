@@ -13,7 +13,7 @@ While many modern email providers and security solutions offer some level of spo
 
 For more cybersecurity tutorials, ethical hacking guides, and open-source tools, follow us on Telegram!
 <a href="https://t.me/toolsbuy" target="_blank">
-  <img src="https://img.shields.io/badge/Chat%20with%20me--blue?style=for-the-badge&logo=person&logoColor=white" alt="Chat with me" />
+  <img src="https://camo.githubusercontent.com/b6aa193bb6a181fb4d1675178de6e74e31f22cf3d36b5c896f26055373f777ca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436861742d54656c656772616d2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d" alt="Telegram" />
 </a>
 ---
 
